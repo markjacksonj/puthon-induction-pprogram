@@ -1,2 +1,2 @@
-# puthon-induction-pprogram
+# python-induction-pprogram
 replit  blockly rapidrouter
